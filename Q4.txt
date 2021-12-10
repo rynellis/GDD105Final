@@ -1,0 +1,8 @@
+4. Describe how to roll back changes and fetch previous versions of work.
+You can use the rollback changes or fetch a previous version of work if the current code isn’t working or has an issue.  You can use the log to look at your previous commits, move the head, and add the file you wish to fetch.
+Ex:		git checkout HEAD filename
+		git log --oneline
+		git checkout #OfLog filename
+		git add filename
+		git commit -m “restoring file, from previous commit”
+		git log --oneline

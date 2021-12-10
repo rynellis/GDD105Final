@@ -1,0 +1,4 @@
+
+2. Discuss common issues that can surface with file versioning systems, and understand common techniques to fix them.
+Common issues that could arise using VCS are duplicated issues, writing over the main, and forgetting to push the new data.
+Techniques that can be implemented to stops these issues are searching for issues before writing them, write issues effectively including a number of different keywords to be able to search the issue with, always push to a branch away from the main or master branch, and always push your new data to a branch multiple times while working on the code to ensure that you don’t lose the code and also ensure that once completed, it will be ready to push to the master.

@@ -1,0 +1,2 @@
+3. How can you handle projects with multiple contributors in Git.
+To be able to handle projects with multiple contributors in Git, you would assign each person their own branch.  This way, you will ensure each person has their own space to submit their work without interfering with others or jeopordizing their own work.
